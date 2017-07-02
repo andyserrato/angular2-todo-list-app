@@ -1,4 +1,4 @@
-# DEMO ON [Angular 2 todo list app with nice animations] (https://andyserrato.github.io/angular2-todo-list-app)
+# DEMO ON [Angular 2 todo list app with nice animations](https://andyserrato.github.io/angular2-todo-list-app)
 
 # Todos
 
